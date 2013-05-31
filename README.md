@@ -2,33 +2,13 @@ EditPlus-PhpStorm-theme
 ====================
 EditPlus color scheme for Jetbrains PhpStorm 6.0
 
-***
-
-Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
-
-Adapted for Jetbrains PhpStorm by:
-Koen Lageveen <info@koenlageveen.nl>
-
-See the [Solarized homepage](http://ethanschoonover.com/solarized) for screenshots, 
-details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
-other applications.
-
-Downloads
----------
-
-If you have come across this page via github please visit the main [Solarized homepage](http://ethanschoonover.com/solarized). The original [Solarized repository] has many more themes and a number of [test files].
-
-[Solarized homepage]:   http://ethanschoonover.com/solarized
-[Solarized repository]: https://github.com/altercation/solarized
-[test files]: https://github.com/altercation/solarized/tree/master/utils/tests
-
 Installation
 ------------
 
 ### Option 1: Manual installation
 
-1.  Copy `Solarized Dark.xml` and `Solarized Light.xml` to your PhpStorm preferences:
-On Windows it is in `C:\Users\<username>\.WebIde50\config\colors`.
+1. Copy `EditPlus.xml` to your PhpStorm preferences:
+On Windows it is in `C:\Users\<username>\.WebIde60\config\colors`.
         
 2. Restart PhpStorm
 
@@ -41,15 +21,6 @@ You should probably modify these in `Preferences | Editor | Colors & Fonts | Fon
 
 Screenshots
 -----------------
-Screenshots of PhpStorm Solarized in action:  
+EditPlus-PhpStorm-theme in action:
 
 ![Dark](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-php-small.png)
-  
-![Light](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-php-small.png)
-
-* [Dark - HTML](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-html.png)
-* [Dark - JS](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-js.png)
-* [Dark - PHP](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-php.png)
-* [Light - HTML](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-html.png)
-* [Light - JS](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-js.png)
-* [Light - PHP](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-php.png)
