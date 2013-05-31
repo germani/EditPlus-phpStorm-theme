@@ -23,4 +23,4 @@ Screenshots
 -----------------
 EditPlus-PhpStorm-theme in action:
 
-![Dark](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-php-small.png)
+![EditPlus-PhpStorm-theme](https://raw.github.com/mihdan/EditPlus-phpStorm-theme/master/img/Editplus-phpStorm-theme.jpg)
