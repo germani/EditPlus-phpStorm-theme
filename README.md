@@ -7,8 +7,12 @@ Installation
 
 ### Option 1: Manual installation
 
-1. Copy `EditPlus.xml` to your PhpStorm preferences:
-On Windows it is in `C:\Users\<username>\.WebIde60\config\colors`.
+1. Copy `EditPlus.xml` to your PhpStorm preferences (\.WebIde60\config\colors) folder:
+
+* Mac: `~/Library/Preferences/`
+* Windows 7: `C:\Users\<username>\`
+* Windows XP: `C:\Documents and Settings\<username>\`
+* Linux: `~/`
         
 2. Restart PhpStorm
 
